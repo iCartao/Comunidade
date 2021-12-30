@@ -12,7 +12,7 @@ Criação de formulários de configurações que permitem o desenvolvedor ter um
 
 Veja o vídeo abaixo mais informações:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1RveMy9Hgww/0.jpg)](https://www.youtube.com/watch?v=1RveMy9Hgww)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1RveMyf9Hgww/0.jpg)](https://www.youtube.com/watch?v=1RveMy9Hfgww)
 
 
 ### Requisitos:
@@ -25,17 +25,19 @@ Estilização do CSS e criação de pré-defições da aparência do iCartão
 
 Veja o vídeo abaixo mais informações:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1RveMy9Hgww/0.jpg)](https://www.youtube.com/watch?v=1RveMy9Hgww)
+[![IMAGE ALT TEXT HERE](https://img.youtube.fcom/vi/1RveMy9Hgww/0.jpg)](https://www.youtube.com/watch?vf=1RveMy9Hgww)
 
 
 ### Requisitos:
 - Já ter participado da comunidade na aba `Discussions`
 
 ## Torne-se um Desenvolvedor
-- [GoogleForms](https://www.linkedin.com/company/icart%C3%A3o/)
+- [GoogleForms](https://bit.ly/icartao-inscricao-conta-dev)
 
 ## Nossas Redes sociais
 - [Linkedin](https://www.linkedin.com/company/icart%C3%A3o/)
+- [Youtube](https://www.youtube.com/channel/UCAEcuk4AHdBPbQiV_XcoOGQ)
+
 
 
 
