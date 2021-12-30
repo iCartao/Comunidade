@@ -6,6 +6,18 @@ Você sendo desenvolvedor, é possível modificar diversos recursos do iCartão:
 
 É possível desenvolver novos Apps ( funcionalidades extras dentro do iCartão) e criação de novos temas ( estilização de CSS )
 
+## Regras
+
+Pedimos que para um bom convívio na nossa comunidade que você siga estas regras:
+
+- Utilizar o fórum apenas para assuntos relacionados ao iCartão
+- Tente ser o mais claro possível nas suas publicações e direto ao ponto
+- Antes de publicar, veja se já existe perguntas ou discussões similares a sua
+- Responda as perguntas educadamente, se for para julgar as pessoas, é melhor ficar quieto
+- Proibido SPAM
+- Proibido qualquer tipo de ofensa
+- Proibido fazer divulgação de publicidades de qualquer natureza
+
 ## Desenvolvimento de Apps
 
 Criação de formulários de configurações que permitem o desenvolvedor ter um campo personalizado em nosso banco de dados que pode ser utilizado no seu código JavaScript do aplicativo para construir novas funcionalidades a página do iCartão do usuário.
