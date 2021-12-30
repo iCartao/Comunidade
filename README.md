@@ -10,6 +10,8 @@ Você sendo desenvolvedor, é possível modificar diversos recursos do iCartão:
 
 Criação de formulários de configurações que permitem o desenvolvedor ter um campo personalizado em nosso banco de dados que pode ser utilizado no seu código JavaScript do aplicativo para construir novas funcionalidades a página do iCartão do usuário.
 
+Veja o vídeo abaixo mais informações:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1RveMy9Hgww/0.jpg)](https://www.youtube.com/watch?v=1RveMy9Hgww)
 
 
@@ -20,6 +22,11 @@ Criação de formulários de configurações que permitem o desenvolvedor ter um
 
 ## Desenvolvimento de Temas
 Estilização do CSS e criação de pré-defições da aparência do iCartão
+
+Veja o vídeo abaixo mais informações:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1RveMy9Hgww/0.jpg)](https://www.youtube.com/watch?v=1RveMy9Hgww)
+
 
 ### Requisitos:
 - Já ter participado da comunidade na aba `Discussions`
