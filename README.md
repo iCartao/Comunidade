@@ -35,8 +35,7 @@ Veja o vídeo abaixo mais informações:
 - [GoogleForms](https://bit.ly/icartao-inscricao-conta-dev)
 
 ## Nossas Redes sociais
-- [Linkedin](https://www.linkedin.com/company/icart%C3%A3o/)
-- [Youtube](https://www.youtube.com/channel/UCAEcuk4AHdBPbQiV_XcoOGQ)
+- [iCartão](https://app.icartao.me/@icartao)
 
 
 
